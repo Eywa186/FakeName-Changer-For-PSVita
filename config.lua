@@ -1,0 +1,3 @@
+-- Bubble Faker 2.0
+-- All-bubble LiveArea title editor.
+-- Based on working FakeName Changer/LPP package layout.
